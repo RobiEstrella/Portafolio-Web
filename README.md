@@ -1,10 +1,10 @@
-# 🚀 Portafolio Profesional Web
+# Portafolio Profesional Web
 
 ¡Bienvenido/a a mi portafolio profesional! Este proyecto es una página web responsive diseñada con la filosofía **Mobile First**, utilizando las tecnologías web fundamentales y el framework **Bootstrap 5**.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **HTML5**: Estructuración semántica de la página.
 - **CSS3 / Flexbox**: Estilos personalizados y alineación flexible.
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Características del Proyecto
+## Características del Proyecto
 
 - **Hero Section**: Presentación personal con foto, rol y botones de acción.
 - **Portafolio de Proyectos**: Visualización de proyectos (POS / CRUDs) adaptable a móviles (`col-12`) y escritorio (`col-md-4`).
@@ -23,10 +23,10 @@
 
 ---
 
-## 🌐 Sitio Web Publicado
+## Sitio Web Publicado
 
 Puedes acceder al sitio en vivo publicado en GitHub Pages a través del siguiente enlace:
-👉 **[Ver Portafolio en Vivo](https://TU_USUARIO.github.io/portafolio-profesional/)**
+**[Ver Portafolio en Vivo](https://TU_USUARIO.github.io/portafolio-profesional/)**
 
 ---
 
