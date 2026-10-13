@@ -1,0 +1,79 @@
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+    letter-spacing: 0.2px;
+}
+
+.hero-section {
+    min-height: 95vh;
+    background-color: #212529;
+}
+
+.profile-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.profile-img:hover {
+    transform: scale(1.05);
+}
+
+.divider {
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+}
+
+.btn-hover-elevate {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn-hover-elevate:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.project-card {
+    border-radius: 16px;
+    transition: all 0.4s ease;
+    border: 1px solid rgba(0,0,0,0.05) !important;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.08) !important;
+}
+
+.icon-box {
+    width: 80px;
+    height: 80px;
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover .icon-box {
+    transform: scale(1.1);
+}
+
+.social-btn {
+    width: 55px;
+    height: 55px;
+    transition: all 0.3s ease;
+    background-color: white;
+}
+
+.social-btn:hover {
+    transform: translateY(-5px);
+}
+.social-btn.btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: white !important;
+}
+.social-btn.btn-outline-dark:hover {
+    background-color: #212529;
+    color: white !important;
+}
+.social-btn.btn-outline-danger:hover {
+    background-color: #dc3545;
+    color: white !important;
+}
