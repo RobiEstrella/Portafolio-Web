@@ -16,17 +16,10 @@
 ## Características del Proyecto
 
 - **Hero Section**: Presentación personal con foto, rol y botones de acción.
-- **Portafolio de Proyectos**: Visualización de proyectos (POS / CRUDs) adaptable a móviles (`col-12`) y escritorio (`col-md-4`).
+- **Portafolio de Proyectos**: Visualización de proyectos (POS / CRUDs) adaptable a móviles y escritorio.
 - **Habilidades Técnicas**: Nivel de dominio en PHP, MySQL, JavaScript, HTML y CSS mediante componentes visuales de Bootstrap.
 - **Currículum Vitae**: Enlace directo para visualización y descarga del CV en formato PDF.
 - **Contacto y Redes**: Enlaces directos a redes profesionales y correo de contacto.
-
----
-
-## Sitio Web Publicado
-
-Puedes acceder al sitio en vivo publicado en GitHub Pages a través del siguiente enlace:
-**[Ver Portafolio en Vivo](https://TU_USUARIO.github.io/portafolio-profesional/)**
 
 ---
 
@@ -34,7 +27,6 @@ Puedes acceder al sitio en vivo publicado en GitHub Pages a través del siguient
 
 ```text
 ├── index.html        # Archivo principal de la aplicación
-├── assets/           # Imágenes y recursos estáticos
-├── css/              # Estilos CSS personalizados (opcional)
-├── js/               # Scripts JS (opcional)
-└── cv.pdf            # Currículum vitae en formato PDF
+├── recursos/         # Imágenes y recursos estáticos
+├── estilos.css       # Estilos CSS personalizados
+├── app.js               # Scripts JS
